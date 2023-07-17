@@ -87,6 +87,9 @@ Test for Linters For tracking linter errors locally you need to follow these ste
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+## deployment
+
+ Visit the [project website](https://surafels.github.io/)
 
 ## 👥 Authors <a name="authors"></a>
 
