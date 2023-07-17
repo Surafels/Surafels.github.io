@@ -882,6 +882,7 @@ hr {
     display: flex;
     margin-top: 152px;
     border-top-right-radius: 120px;
+    font-family: sans-serif;
   }
 
   .about-myself {
